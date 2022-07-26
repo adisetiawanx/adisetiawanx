@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adisetiawanx
+- 👋 Hi, I’m Kadek Adi Setiawan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS and going to backend
+- 🌱 I’m currently learning ReactJS and planning to learn backend
 - 💞️ I’m looking to collaborate on group project open source
-- 📫 How to reach me adisetiawanzx@gmail.com
+- 📫 How to reach me? just send email to adisetiawanzx@gmail.com
 
 <!---
 adisetiawanx/adisetiawanx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
