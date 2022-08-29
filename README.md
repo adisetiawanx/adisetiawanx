@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kadek Adi Setiawan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS and planning to learn backend
+- 🌱 I’m currently learning NextJS and planning to ExpressJS
 - 💞️ I’m looking to collaborate on group project open source
 - 📫 How to reach me? just send email to adisetiawanzx@gmail.com
 
