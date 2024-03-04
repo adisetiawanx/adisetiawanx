@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kadek Adi Setiawan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning TypeScript and planning to learn NextJS
+- 🌱 I’m currently learning Nuxt and planning to contribute on Nuxt community
 - 💞️ I’m looking to collaborate on group project open source
 - 📫 How to reach me? just send email to adisetiawanzx@gmail.com
 
